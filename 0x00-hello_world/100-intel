@@ -1,2 +1,2 @@
 #!/bin/bash
-gcc -S imasm=intel $CFILE
+export CFILE=0-main.c
