@@ -15,7 +15,6 @@ for (alpha = 'a'; alpha <= 'z'; alpha++)
 {
 putchar(alpha);
 }
-putchar('\n');
 for (cap = 'A'; cap <= 'Z'; cap++)
 {
 putchar(cap);
