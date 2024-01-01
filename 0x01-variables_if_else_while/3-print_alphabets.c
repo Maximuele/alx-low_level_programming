@@ -19,6 +19,7 @@ for (cap = 'A'; cap <= 'Z'; cap++)
 {
 putchar(cap);
 }
+putchar('\n');
 return (0);
 
 }
