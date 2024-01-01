@@ -2,7 +2,7 @@
 
 /**
  *main - Entry point
- *print lower case aplphabet
+ *print lower case aplphabet reverse
  *using putchar
  *Return: Always 0 (sucess)
  */
