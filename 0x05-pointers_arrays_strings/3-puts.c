@@ -6,7 +6,7 @@
  * @str : string
  * Return - string lenghr
  */
-void _puts(char *str)i
+void _puts(char *str)
 {
 int d;
 
@@ -16,5 +16,5 @@ while (str[d] != '\0')
 putchar(str[d]);
 d++;
 }
-putchar('\n')
+putchar('\n');
 }
