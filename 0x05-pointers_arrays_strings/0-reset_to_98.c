@@ -1,22 +1,12 @@
-#include <stdio.h>
+#include <main.h>
 
 /**
- * main - entry point
- * function that takes a pointer and updates its values
- * Return: Always 0 (success)
+ * reset_to_98 - reset the value of the variable back to 98
+ * @i: Vriable to be reset
+ * Return: void
  */
-void reset_to_98(int *n)
-{
-int n = 98;
-*ptr = n;
-}
 
-int main(void)
+void reset_to_98(int *n);
 {
-n = 402;
-printf("n=%d", n);
-reset_to_98(&n);
-printf("n=%d", n);
-return (0);
-
+	*i = 98;
 }
